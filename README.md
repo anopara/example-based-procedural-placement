@@ -1,1 +1,3 @@
-# example-based-procedural-placement
+# Example-based Procedural Placement
+A.Opara & T.Stachowiak @ Embark Studios
+
