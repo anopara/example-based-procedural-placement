@@ -6,7 +6,7 @@ Example-based Procedural Placement algorithm automatically extracts placement ru
 See our talk ["Place Like I Do! Example-based Procedural Placement in a Dialogue System"](https://youtu.be/yED9t2tImog) which explains the technique and the background more in-depth: 
 [![IMAGE ALT TEXT](imgs/play.jpg)](https://youtu.be/yED9t2tImog "Example-based Procedural Placement")
 
-The slides are also [available online](https://docs.google.com/presentation/d/1jahAbfpoC5T78JBZuWZSGHk_JO_22R3F8F8wkmAkXEs/edit?usp=sharing):
+The slides with detailed speaker notes are also [available online](https://docs.google.com/presentation/d/1jahAbfpoC5T78JBZuWZSGHk_JO_22R3F8F8wkmAkXEs/edit?usp=sharing):
 
 [<img src="imgs/slides.jpg" width="400" height="400">](https://docs.google.com/presentation/d/1jahAbfpoC5T78JBZuWZSGHk_JO_22R3F8F8wkmAkXEs/edit?usp=sharing)
 
