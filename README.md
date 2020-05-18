@@ -1,5 +1,7 @@
 # Example-based Procedural Placement
-[A.Opara](https://www.anastasiaopara.com/) & [T.Stachowiak](http://h3.gd/) @ [Embark Studios](https://www.embark-studios.com/)
+[A.Opara](https://www.anastasiaopara.com/) & [T.Stachowiak](http://h3.gd/) @ [Embark Studios](https://www.embark-studios.com/) _February, 2020_
+
+
 
 Example-based Procedural Placement algorithm automatically extracts placement rules from example arrangements. With a new similarity metric for object arrangements formulated via optimal transport and wasserstein distance, we show that we can capture the example's anisotropic information in our synthesized placements. The algorithm was a part of our experimental project Kittiwake at Embark Studios, where we set out to explore a feeling of co-creation with a procedural system. We embodied the example-based placement algorithm into a little creature, whom we named Kittus. Kittus tries to assist you by mimicking your placements; it analyzes the neighborhoods of objects you place, and finds similar-looking locations in the level. 
 
