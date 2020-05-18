@@ -21,3 +21,5 @@ The slides with detailed speaker notes are also [available online](https://docs.
 [2015 Emilien et al.] WorldBrush: Interactive Example-based Synthesis of Procedural Virtual Worlds
 
 [2015 N Bonneel et al.] Sliced and Radon Wasserstein Barycenters of Measures
+
+[2019 Bagnall et al] We’re Shaped by Our Creative Tools
